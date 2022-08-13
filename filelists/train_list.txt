@@ -1,7 +1,7 @@
 wavs/nan000_001.wav|re vi six.
 wavs/nan000_002.wav|re vi six.
 wavs/nan000_003.wav|sa to ru kun.
-wavs/nan000_004.wav|Cha n to kikoe te ru ku se ni na n de mushi su ru ka na a.
+wavs/nan000_004.wav|cha n to kikoe te ru ku se ni na n de mushi su ru ka na a.
 wavs/nan000_005.wav|sigoto tyuu ha sikata nai yo. tyanto ki te nai to.
 wavs/nan000_006.wav|yosan ga nai tte,ittu mo nage i teru kara ne.
 wavs/nan000_007.wav|heiki zya nai desu,naka ha mure mure desu. ha hu xa waxa...... watasi datte haya ku reibou no ki i ta heya ni modo ri tai.
@@ -35,7 +35,7 @@ wavs/nan000_034.wav|watasi ha ii kedo ne. hosyuu saboxtu te ryuunen suru no ha s
 wavs/nan000_035.wav|imouto no kurasumeito no ani ka.
 wavs/nan000_036.wav|issyo no kyousitu de benkyou suru no mo, kekkou tano si sou da ne.
 wavs/nan000_037.wav|de mo kono tyousi da to rainen mo ryuunen si tyau kamo. sositara imouto wo, senpai tte yo bu koto ni naxtu tyau ne.
-wavs/nan000_038.wav|mo si, watasi ga senpai ni naxtu tara, akatuki kun ni benkyou wo osi e ta geru ne.
+wavs/nan000_038.wav|mo si, watasi ga senpai ni naxtu tara, sa to ru kun ni benkyou wo osi e ta geru ne.
 wavs/nan000_039.wav|dou suru?  watasi no koto senpai tte yo bu?
 wavs/nan000_040.wav|un, ohayou.
 wavs/nan000_041.wav|hosyuu, i ku ki ni naxtu ta?
@@ -265,3 +265,484 @@ wavs/nan001_167.wav|sou si tai no ha yamayama na n da kedo...... ro----pu de age
 wavs/nan001_168.wav|de mo kono zikan, rouka ha hito no dei ri mo aru to omo u kara.
 wavs/nan001_169.wav|ano...... gomen ne. sekkaku nouryoku de nao si ta bakkari na no ni.
 wavs/nan001_171.wav|...... yorosiku, o nega i si masu.
+wavs/nan002_001.wav|sa to ru kun?  konna tokoro de nani si teru no?
+wavs/nan002_002.wav|sakki kara hi to ri de ume i te...... dou si ta no?
+wavs/nan002_003.wav|nanika naya mi goto nara hanasi gurai ha ki ku yo?
+wavs/nan002_005.wav|haxtu, haixtu?
+wavs/nan002_006.wav|......…. o, o nii tyan ga sonnani sunao ni watasi wo tayo ru nante mezura sii ne.
+wavs/nan002_007.wav|watasi ni, sika...... xtu.
+wavs/nan002_008.wav|si...... sikata nai naxa. sa to ru kun ga soko made i u nara, tikara wo ka si te ageru no mo yabusaka de ha nai yo.
+wavs/nan002_009.wav|sore de sorede?  watasi ni nani wo si te ho sii no?
+wavs/nan002_010.wav|humu...... humuhumu...... humu?
+wavs/nan002_013.wav|exe xexe----!?
+wavs/nan002_014.wav|se, sen pa- i. tyotto ii desu ka?
+wavs/nan002_015.wav|totuzen sumimasen. sa to ru kun kara senpai no o heya wo osi e te moraxtu te.
+wavs/nan002_016.wav|youzi to iu hodo de ha nai n desu ga...... sono, watasi ha mada tomodati mo i nai node.
+wavs/nan002_017.wav|desu kara senpai, kyou ha sinboku wo huka meru tame ni mo......
+wavs/nan002_018.wav|issyo ni, o huro nante dou desu ka?
+wavs/nan002_019.wav|tokubetu na koto ha nani mo. dare demo si teru you na koto bakari desu.
+wavs/nan002_020.wav|sou iu mono desu ka?
+wavs/nan002_021.wav|arigatou gozai masu. ki wo tu ke te mi masu.
+wavs/nan002_022.wav|demo senpai no hada datte kirei desu si, naniyori onna no hito to si te miryokuteki da to omo i masu yo.
+wavs/nan002_023.wav|ho, honto desu yo. kou...... sawa xtu tyai tai gurai, suteki desu.
+wavs/nan002_024.wav|to iu ka ano...... senpai?
+wavs/nan002_025.wav|tyotto honto ni, hada wo sawa ra se te moraxtu te mo ii desu ka?
+wavs/nan002_026.wav|arima suxtu. zenzen ari masu yoxtu.
+wavs/nan002_027.wav|da kara, sono, se, senpai xtu, siturei sima suxtu.
+wavs/nan002_028.wav|( mo xo -!  imouto ni nante koto sa seru kana!)
+wavs/nan002_029.wav|yappari senpai no hada kirei desu. sore ni, zyosei to si te totemo miryokuteki de, atti mo, sotti mo, koko moxtu.
+wavs/nan002_030.wav|sugo i desu yo ne, yappari otona no miryoku tte iu n desu ka, hora koko toka mo.
+wavs/nan002_031.wav|ie. yappari koregurai si nai to.
+wavs/nan002_032.wav|( nai, nai, nai!  nai yo!  si-to doko ni ha xtu ta no?  sa to ru kun ha sokei bu tte i xtu te ta kedo)
+wavs/nan002_033.wav|( somosomo sokei bu tte doko na noxtu!?  kokora hen xtu?)
+wavs/nan002_034.wav|( xuxuxuxtu, kantiga i sa reru. zettai kantiga i sa re teru)
+wavs/nan002_035.wav|( konnani bettari, ippai iro nna tokoro wo sawa xtu tari si te...... kitto, sotti no syumi datte omo wa re teru)
+wavs/nan002_036.wav|( sore mo kore mo sa to ru kun ga hen na tokoro ni ha ru kara da yoxtu, baka xaxaxaxaxa!)
+wavs/nan002_037.wav|gomennasai, senpai. demo mou suko si dake......
+wavs/nan002_038.wav|( sokei bu, sokei bu, sokei bu...... moutyotto hanasi wo tyanto ki i te oku beki daxtu ta)
+wavs/nan002_039.wav|...... axtu!  koko!
+wavs/nan002_040.wav|( koko dake hada no kansyoku to tiga u!  kitto kore da!)
+wavs/nan002_041.wav|( demo, nanka ha gare nai...... moutyotto, moutyotto)
+wavs/nan002_042.wav|exe xexe ixtu!
+wavs/nan002_043.wav|yaxtu ta!  to re ta!
+wavs/nan002_044.wav|---- haxtu!?
+wavs/nan002_045.wav|ti, tiga u n desu, gokai, gokai na n desu. kore ha sou iu no zya naku te.
+wavs/nan002_046.wav|tiga u n desu yoxo xoxo----!!
+wavs/nan002_047.wav|sa to ru kun no baka, aho-...... tennyuu syoniti kara, konna koto suru nante...... kantiga i sa re ta. zettai ni kantiga i sa re ta yo.
+wavs/nan002_048.wav|somosomo dou yaxtu te anna kiwadoi basyo ni si-to wo ha xtu ta no!?
+wavs/nan002_049.wav|...... honto?
+wavs/nan002_050.wav|zettai?
+wavs/nan002_051.wav|...... zyaa, yuru si ta geru.
+wavs/nan002_052.wav|demo yappari asita kara kowa i...... kurasu de u i te tara dou siyo u.
+wavs/nan002_053.wav|tuka re ta xa. yosoudoo ri minna no mae de ziko syoukai sa se rare te...... sikamo sono toki, ka n zyaxtu ta yo.
+wavs/nan002_054.wav|un...... maa tasi ka ni, hana sikake te mora e ta yo.
+wavs/nan002_055.wav|sugo i yo nexe...... syotaimen no ningen ni aka ruku hana sikakeru nante, masani komyu ryoku o ba ke.
+wavs/nan002_056.wav|demo, asita kara ha sa ke rareru kamo ne...... dare ka san no okage de.
+wavs/nan002_057.wav|mou ii yo. ninmu to si te hituyou daxtu ta no ha rikai si teru kara.
+wavs/nan002_058.wav|yakusoku da kara ne.
+wavs/nan002_059.wav|a, un. tyanto sira be ta yo. soutei si ta too ri kousya gawa no sekyurithi ha kibi siku nai.
+wavs/nan002_060.wav|o hiru no uti ni siko mi mo si te oi ta kara,sa to ru kun nara sinnyuu suru no mo muzuka siku nai to omo u.
+wavs/nan002_062.wav|watasi ga ganba xtu te kaisyuu si ta n da kara...... seikou suru koto wo kokoro no soko kara ino ru yo.
+wavs/nan002_063.wav|sa to ru kun no hou koso, sitasira be ha su n da no?
+wavs/nan002_064.wav|eizou kioku...... hanasi dake ki i teru to sugo ku benri sou da yo ne, sore.
+wavs/nan002_065.wav|ima ha?  ita ku nai?
+wavs/nan002_067.wav|wakaxtu ta.
+wavs/nan002_068.wav|kamera no kazu, ta su gi da yoxo...... kosi ga ita i.
+wavs/nan002_069.wav|ma xtu te. ima yaxtu teru.
+wavs/nan002_070.wav|yosi, ki ri ka e ta. anmari naga i to aya sima reru karasan hunkan dake gomaka si teru kedo, kore de okona keru?
+wavs/nan002_072.wav|hannou ga yowa i no kana?
+wavs/nan002_074.wav|sa to ru kun, ima no tte......
+wavs/nan002_075.wav|mitai da ne. yokaxtu ta...... watasi no doryoku ga muda ni nara naku te.
+wavs/nan002_076.wav|axtu, sou da ne. sugu ni hazi meru yo.
+wavs/nan002_077.wav|ase ra nai. ase xtu ta tokoro de syori sokudo ga a gattari ha si nai n da kara.
+wavs/nan002_078.wav|...... nani?
+wavs/nan002_079.wav|tata ka nai yo. tu-ru wo hasi ra se teru dake da mon.
+wavs/nan002_080.wav|maa, sou iu byousya no hou ga roman ha aru n da kedo ne. tata i te mo ii kedo, matta ku no muimi da yo.
+wavs/nan002_081.wav|n -...... kanzen kakuri si te ansin si teru no kana?  sinnyuu wo soutei si te nai kan zi ga suru.
+wavs/nan002_082.wav|sekyurithi ga soko made kibi siku nai kara, mousugu da to omo u n da yo nexe.
+wavs/nan002_083.wav|axtu, i xtu teru soba kara ike ta. ato ha tyo tyoito...... mahou wo ka kere ba, kan owa xtu to.
+wavs/nan002_084.wav|desyo u?  ehehe.
+wavs/nan002_085.wav|tyotto ma xtu te. kensaku...... kensaku...... e-xtu to kensaku suru houhou ha doko daro?  kotti ha tiga u. kotti...... aa, axtu ta, kore da.
+wavs/nan002_086.wav|sore de, sira beru asutoraru nouryoku ha, ninsiki sogai da kke?
+wavs/nan002_087.wav|extu to ne...... touroku sa re teru no ha, syakaizin ga hi to ri ni, gakusei ga hi to ri. ryouhou to mo otoko no hito da yo.
+wavs/nan002_088.wav|un, syasin mo touroku sa re teru kara. hai, kore.
+wavs/nan002_089.wav|katu age...... sa re sou ni ha mi e nai ne.
+wavs/nan002_090.wav|sore zyaa tessyuu?
+wavs/nan002_091.wav|ryoukai. saigo ni o souzi wo si toka nai to ne.
+wavs/nan002_092.wav|extu, uso!?  nande!?  sonna hazu---- nanika misu xtu ta!?
+wavs/nan002_093.wav|dodo do dou siyo u, dou siyo u...... nanika no wana?  toroi no mokuba!?  seme sei bouheki!?  gamen ni b a b e l no moziretu ga!?
+wavs/nan002_094.wav|e?  uun...... ima no tokoro ha toku ni henka ha nai kedoxtu, demo kono ara-mu ga!
+wavs/nan002_095.wav|e? ...... sou nano?
+wavs/nan002_096.wav|u, un. wakaxtu ta.
+wavs/nan002_097.wav|ee!?  mi tukaxtu tara dou suru no!?  to iu ka hi to ri ni si nai de, o nii tyan!
+wavs/nan002_098.wav|demo, mosi sono aida ni dare ka ki tara?
+wavs/nan002_099.wav|wakaxtu ta...... xtu.
+wavs/nan002_100.wav|axtu!  a noxtu.
+wavs/nan002_101.wav|ki, ki wo tu ke te ne...... o nii tyan.
+wavs/nan003_001.wav|de, dou nano?  tyanto settoku deki sou?
+wavs/nan003_002.wav|demo...... dou si te nera wa re ta n daro u ne?
+wavs/nan003_003.wav|watasi ni nani ka tetuda eru koto aru?
+wavs/nan003_004.wav|koro sa re-- tte...... sa to ru kun, nani si ta no?
+wavs/nan003_006.wav|nantonaku saxtu si ha tui ta. douse rakki- sukebe de, nani ka hen na koto si ta n desyo?  sikibu senpai no toki mitai ni.
+wavs/nan003_007.wav|koro n de panthi- nu ga si tari, huku ya burazya- nu ga si tari, nama de oppai mo n dari su xtu tari, kokan ni kao tu xtu ko n dari.
+wavs/nan003_008.wav|demo, sore ppoi nani ka ga axtu ta tte koto na n da?
+wavs/nan003_009.wav|yappari.
+wavs/nan003_010.wav|e?  axtu, ohayougozaimasu, mibu san.
+wavs/nan003_011.wav|ie, sono, kyou de fu tsu ga na no de...... sumimasen.
+wavs/nan003_012.wav|a, arigatou gozaimasu.
+wavs/nan003_013.wav|axtu, sa to ru kun ha watasi no o nii tyan de......
+wavs/nan003_014.wav|sa to ru kun!?  sou iu yokei na koto ha i wa naku te ii kara xa!
+wavs/nan003_015.wav|sore ga yokei nano!  kinou kara, a u hito a u hito ni ha zukasii koto bakkari i xtu te, mo xo!
+wavs/nan003_016.wav|da kara sou iu tokoro ga xa-
+wavs/nan003_017.wav|axtu, uxtu...... ku xuxuxu...... sa to ru kun no sei de wara wa re tyaxtu ta zya nai...... baka......
+wavs/nan003_018.wav|----xtu, watasi saki ni okona kuxtu.
+wavs/nan003_019.wav|a, u, un...... heiki, kana.
+wavs/nan003_020.wav|e, a...... extu to...... ti, tisaki, tyan......
+wavs/nan003_021.wav|sore ha tigaku te-~~!!
+wavs/nan004_001.wav|are?  sa to ru kun?  dou si ta no, tisaki tyan to issyo ni
+wavs/nan004_002.wav|sore de youzi tte nani?
+wavs/nan004_003.wav|saxtu, sa to ru kun xtu, sou iu no ha zukasii karaxtu
+wavs/nan004_004.wav|zya naku te--
+wavs/nan004_005.wav|ima no hatugen ga sisukon ppoku te kimoi tte iu ka...... somosomo sonna ha zukasii ani ga iru no ga kimoi to iu ka......
+wavs/nan004_006.wav|da, datte!
+wavs/nan004_007.wav|~~~~ xtuxtu
+wavs/nan004_008.wav|mo xo!  sa to ru kun no bakaxtu!  sakki kara watasi no kurasu de hen na koto i wa nai de yo, iya garase na noxtu!?
+wavs/nan004_009.wav|nani ka youzi ga aru nara basyo ka eyo!  hora!
+wavs/nan004_010.wav|sore de?  nani no you?
+wavs/nan004_011.wav|imouto wo kurasu no wara i mono ni suru tame no iya garase!?  hidoi yoxoxtu!
+wavs/nan004_012.wav|wasu re sase rare ta wake zya nakaxtu ta n da?
+wavs/nan004_013.wav|sore mo...... ninsiki sogai tte koto?
+wavs/nan004_014.wav|zissai ni mi ta insyou ha dou daxtu ta?
+wavs/nan004_015.wav|nara,ni do to ona zi you na koto wo si nai you ni, tyuukoku sure ba ii n da yo ne?
+wavs/nan004_016.wav|mo xtu te ki te nai...... to iu ka, mo xtu te ta mizugi ha suu nen mae no mono da kara. zettai ni a wa nai to omo u
+wavs/nan004_017.wav|nanaumi tyan tte kao ni nia wa zu kekkou ii mono mo xtu teru mon nexe -. soryaa osa maru wakenai yo nexe -
+wavs/nan004_018.wav|na xuxtu!?  marude mi te ki ta ka no you na i i kata ha to me te ho sii......
+wavs/nan004_019.wav|da kara xa, sou iu koto i wa nai dextu te ba xa!
+wavs/nan004_021.wav|un, meiwaku zya nai nara. watasi ha itu demo ii kara, yorosiku o nega i si masu
+wavs/nan004_022.wav|e?  watasi?  zibun no zya naku te?
+wavs/nan004_023.wav|era bu no ha ii kedo...... anmari hade na no toka, rosyutu ga oo i no ha koma ru yo
+wavs/nan004_024.wav|sore nara...... ii ka na
+wavs/nan004_025.wav|ta, tasuku kextu...... sato ku...... n xtu
+wavs/nan004_026.wav|da kara aso bi zya nakuxtu te...... mi, mi te nai de, tasuku kextu...... hi xixi n xtu, o ani tya xaxa n
+wavs/nan004_027.wav|haxa...... haxa...... si, si nu ka to omo xtu ta xa......
+wavs/nan004_028.wav|yappari sinpai da kara, kono heya de sa to ru kun no koto wo ma to u to omo xtu te
+wavs/nan004_029.wav|i u to omo xtu ta. dakara tyokusetu ki ta n da yo
+wavs/nan004_030.wav|ikura daizyoubu tte i wa re te mo, ki ni naxtu te nemu re nai no. sore ni, watasi ha sa to ru kun no[ ba] sou[ dhi] bou na n da kara
+wavs/nan004_031.wav|betu ni issyo ni tu re teke nante i xtu te nai. sa to ru kun ga kae xtu te kuru no wo heya de ma xtu teru dake
+wavs/nan004_033.wav|soretomo...... dou si te mo dame kana, o nii tyan?
+wavs/nan004_034.wav|ixtu te rassyai
+wavs/nan004_035.wav|axtu, sa to ru kun. dou daxtu ta?
+wavs/nan004_036.wav|uun. sore yori, nani ka axtu ta no?
+wavs/nan004_037.wav|masaka...... nani ka misu si ta no!?
+wavs/nan004_038.wav|honto?  nara ii kedo...... sore nara, mendou tte?
+wavs/nan004_039.wav|ha i, douzo
+wavs/nan004_040.wav|axtu, hoppeta dou si ta no?  ti ga de teru yo, suko si dake do
+wavs/nan004_041.wav|sugu ni nao su kara, zitto si te
+wavs/nan004_042.wav|dame da yo. tatoe tii sana kega demo ninmu tyuu ni deki ta mono ha nao si te oka nai to
+wavs/nan004_043.wav|kega ga syouko ni naxtu tari mo suru n da kara
+wavs/nan004_044.wav|kega wo nao su koto mo ninmu no itibu. wakaxtu tara, kotti ni suwa xtu te. kizu wo yoku mi se te
+wavs/nan004_045.wav|n -...... toge ga sa saxtu teru wake demo na sa sou da si, konomama nouryoku de nao si te daizyoubu sou da ne
+wavs/nan004_046.wav|un!
+wavs/nan004_047.wav|ziai no tensi yo, sono ibuki de kizu wo i yasi ta mae
+wavs/nan004_048.wav|ha i. nao xtu ta. hoka ni ita i tokoro ha?
+wavs/nan004_049.wav|douitasimasite...... ehehe
+wavs/nan004_050.wav|to nikaku, buzi de yoka ta. okaeri, o nii tyan
+wavs/nan005_002.wav|hotondo naya n de nakaxtu ta kedo, honto ni sore de ii no?
+wavs/nan005_003.wav|desyo u nexe.
+wavs/nan005_004.wav|a, sikibu senpai. konnitiha.
+wavs/nan005_005.wav|...... sonnani obi e nai de kuda sai. are ha honto ni gokai desu kara.
+wavs/nan005_006.wav|muri!  muri muri muri muri muri, sonnani tii sai mizugi de hitomae ni de rareru wakenai yo!
+wavs/nan005_007.wav|gutto ko naku te ii yoxtu, zyugyou de tuka u dake na n da kara.
+wavs/nan005_008.wav|uxtu...... sou i wa reru to, zisin nai kamo...... iroiro to o niku ga.
+wavs/nan005_009.wav|demo igai to kawai i no mo oo i ne...... sekkaku sityaku suru n da kara, iroiro tame si te mi tai kamo......
+wavs/nan005_010.wav|axtu, sore nara kekkou kawai i kamo.
+wavs/nan005_011.wav|tisaki tyan, iru?
+wavs/nan005_012.wav|sore ga, saizu ga tii saku te.
+wavs/nan005_013.wav|un. sore ha heiki da kedo......
+wavs/nan005_014.wav|ku i ko n zyaxtu te...... tyotto kitui.
+wavs/nan005_015.wav|saxtu, akatuki kun...... nani?  sonnani ziroziro mi te.
+wavs/nan005_016.wav|so, sou kana?
+wavs/nan005_017.wav|demo yappari, kono saizu ha koma ru yo.
+wavs/nan005_018.wav|mou si wake nai n da kedo, oo kii saizu wo saga si te mi te kure nai kana?
+wavs/nan005_019.wav|hoka no mizugi demo ii kara, o nega i dekiru?  koma kai koto ha tisaki tyan no sensu ni maka seru.
+wavs/nan005_020.wav|demo anmari hade na no ha to me te ne?  hutuu no hantyuu nara, ii kedo......
+wavs/nan005_022.wav|ma, ma xtu textu.
+wavs/nan005_023.wav|mizugi wo sityaku si ta mama hi to ri nin de iru no, huan da kara...... mou suko si koko ni i te ho sii...... desu.
+wavs/nan005_024.wav|tenin san ni hana sikake rareru to, tyotto koma ru si......
+wavs/nan005_025.wav|...... un, arigato.
+wavs/nan005_026.wav|....... nanka eroi me ni naxtu teru.
+wavs/nan005_027.wav|sore ha sore de ika na mono ka!  ura waka ki otome ni mu kaxtu te mutimuti toka siturei kiwa marinai yo!
+wavs/nan005_028.wav|sore ha, wakaxtu teru kedo...... tyotto huan ni naru. saikin ta be su gi teru kamo sire nai kara......
+wavs/nan005_029.wav|kansyoku ga hu e tyaxtu te. kurasu de kyuukei tyuu ni o kasi ga mawa xtu te ki tari suru kara...... yappari, huto xtu ta kana?
+wavs/nan005_030.wav|da to ii kedo...... punipuni na n da yo nexe, iroiro to.
+wavs/nan005_031.wav|yappari me ga etti ni naxtu teru ki ga suru.
+wavs/nan005_032.wav|zyaa, nani wo omo xtu te ziroziro mi te ta wake?
+wavs/nan005_033.wav|....... sore, yokuzyou si teru tte koto desyo?
+wavs/nan005_034.wav|na ni sore. marude o tou san mitai.
+wavs/nan005_035.wav|sou?  nara, yappari sisukon?
+wavs/nan005_036.wav|nara mosikuha...... koibito...... toka?
+wavs/nan005_039.wav|ano hito, kanozyo tte.
+wavs/nan005_040.wav|teisei, toka...... si naku te yokaxtu ta no?
+wavs/nan005_041.wav|sore ha...... sou kamo. hutuu ha ko nai yo ne, kyoudai de nante.
+wavs/nan005_042.wav|un...... sou da ne. watasi tati, sonna huu ni mi e tyau n da ne. kyoudai zya naku, sono...... karesi kanozyo tte.
+wavs/nan005_043.wav|betu ni, sou iu wake zya nai n da kedo.................. are kana.
+wavs/nan005_044.wav|o nii tyan ga karesi yaku da to, tyo-xtu to yakusya busoku kamo.
+wavs/nan005_045.wav|nantyatte...... zyoudan da yo, ehehe.
+wavs/nan005_046.wav|uun, betu ni nandemonai yo. sore yori, saizu ha dou kana?
+wavs/nan005_047.wav|arigato, tisaki tyan.
+wavs/nan005_048.wav|arigatou gozaimasu.
+wavs/nan005_049.wav|watasi mo. tisaki tyan ni era n de mora e te yokaxtu ta.
+wavs/nan007_001.wav|axtu, sa to ru kun. soxtu ka, kyou ha sa to ru kun no kurasu to goudou na n da ne
+wavs/nan007_002.wav|tisaki tyan ha asutoraru tuka i zya nai kara
+wavs/nan007_003.wav|hi to ri de iru no ha huan daxtu ta n da kedo...... yokaxtu ta xa, sa to ru kun ga i te kure te
+wavs/nan007_004.wav|uxtu...... urusai naxa. sou iu tukkomi haira nai yo
+wavs/nan007_005.wav|sore ni, hana si aite gurai hairu mon. tokubetu naka ga ii aite ga i nai tte dake de......
+wavs/nan007_006.wav|un. sou da yo...... mizugi nante hisabisa ni ki ru kara, nanka na re naku te
+wavs/nan007_007.wav|hen...... zya nai kana?
+wavs/nan007_008.wav|bouyo mi de tekitou na koto i u gurai nara, muri ni ho me te kure naku te mo ii yo
+wavs/nan007_009.wav|......…. honto ni?
+wavs/nan007_010.wav|so, sou kana...... ehehe
+wavs/nan007_011.wav|sinpai tte...... nani ga?
+wavs/nan007_012.wav|mata sonna sisukon mitai na koto i u......
+wavs/nan007_013.wav|demo, sonna kimoi sinpai wo suru gurai nia xtu teru tte koto nara, arigato
+wavs/nan007_014.wav|sore nara ii n da kedo...... dousenara sunao ni ho me te kurere ba ii noni
+wavs/nan007_015.wav|hen na i i kata sae si nakaxtu tara i wa nai mon
+wavs/nan007_016.wav|sa to ru kun, eroi me ni naxtu teru
+wavs/nan007_017.wav|tada...... nani?
+wavs/nan007_018.wav|......…?  nani sore?  dou iu imi?
+wavs/nan007_019.wav|tottemo nia xtu te masu yo, kawai i desu, nizyou in senpai
+wavs/nan007_020.wav|arigatou gozaimasu
+wavs/nan007_022.wav|watasi mo sou desu
+wavs/nan007_023.wav|mosikasite hakui wo ki teru no ha, semetemono teikou desu ka?
+wavs/nan007_024.wav|sore ha sou kamo sire mase n ga...... mizugi hakui da nante, nandaka gyaku ni maniakku
+wavs/nan007_025.wav|senpai ha kirei desu si, totemo sekusi- desu yo
+wavs/nan007_027.wav|watasi no si ra nai aida ni, sikibu senpai to nakayo ku naxtu teru
+wavs/nan007_028.wav|ima, gomaka si ta desyo?
+wavs/nan007_029.wav|kyuu ni mazime buru......
+wavs/nan007_030.wav|...... wakari masi ta. sorede senpai, sokutei tte gutaiteki ni ha nani wo suru n desu ka?
+wavs/nan007_031.wav|ima no demo u suuti ga de ta n desu ka?  mae ni kura beru to, zuibun mizika i zikan desi ta kedo
+wavs/nan007_032.wav|a, watasi no hou ga oo kii n desu ka
+wavs/nan007_033.wav|he-...... kenkyuu tte iroiro aru n desu ne. rinku ti nante siri mase n desi ta
+wavs/nan007_035.wav|sa to ru kun ga eroi me wo si teru
+wavs/nan007_036.wav|senpai mo. ani wo hen na kaze ni saso wa nai de kuda sai
+wavs/nan007_037.wav|tiga i masu. sou iu koto zya nai desu
+wavs/nan007_038.wav|tada sa to ru kun ha, senpai mitai na kirei na hito no izana i ni kiyasu ku no xtu tyai sou da kara, to me te ho sii dake desu
+wavs/nan007_039.wav|......…. tiga u tte i xtu teru noni......
+wavs/nan007_040.wav|tiga u kara ne
+wavs/nan007_041.wav|...... mayu senpai......
+wavs/nan007_042.wav|yappari kyori ga tika ku naxtu teru. mosikasite...... zyugyou saboxtu te senpai no heya ni i ri bita xtu ta?
+wavs/nan007_043.wav|donna kikkake na n desu ka?
+wavs/nan007_044.wav|na n da ka imi huke......
+wavs/nan007_045.wav|daxtu tara...... senpai. rinku ti ni tui te osi e te mora e masu ka?
+wavs/nan007_046.wav|nandaka omosiro sou na no de. motto si ri tai desu. sore ni, karada wo ugo kasi tari suru no ha tokui de ha nai desu kara
+wavs/nan007_047.wav|ha i. yorosiku o nega i si masu
+wavs/nan007_048.wav|mada sore ki ni si te ta n desu ka!?  honto ni tiga u noni xi...... sa to ru kun no baka, aho-......
+wavs/nan009_001.wav|e?  nekomimi?  sorya itiou…… mo xtu teru kedo
+wavs/nan009_002.wav|exe!?  sa to ru kun gaxtu, nekomimi wo!?
+wavs/nan009_003.wav|ka su no ha ii n da kedo…… nani no tame ni?
+wavs/nan009_004.wav|mosikasite, sa to ru kun ga soutyaku wo……?
+wavs/nan009_005.wav|to me te!  nekomimi wo tu ke te zyosou suru ani nante imouto to si te ha na ki taku naxtu tya uxtu
+wavs/nan009_006.wav| si ri a i ga" tomodati ga tte taitei ha zibun no koto da yo
+wavs/nan009_007.wav|………. uso de ha na sa sou da kedo……
+wavs/nan009_008.wav|uso no ka wari ni sou iu sisukon ppoi koto i u no mo to me te ho sii naxa
+wavs/nan009_009.wav|tyotto ma xtu te te. sugu ni mo xtu te kuru kara
+wavs/nan009_010.wav|dou si ta no?  nandaka omokuru sii tame iki da kedo…… nani ka naya mi goto?
+wavs/nan009_011.wav|honto ni?  ima kara ninmu na n da yo?  syuutyuu deki nai nara, hi wo arata me ta hou ga ii to omo u
+wavs/nan009_012.wav|sotti ha mondai nai yo. sa to ru kun no yosou doo ri, kousya no hou ha ka waxtu te nakaxtu ta
+wavs/nan009_013.wav|kyouka sa re ta no ha, yappari soto kara no sinnyuu ni sona eru bubun da yo
+wavs/nan009_014.wav|konnitiha
+wavs/nan009_015.wav|ha i
+wavs/nan009_016.wav|yoku i ku no ha dai ryou da yo. bagetto ga sugo ku oi sii no
+wavs/nan009_017.wav|gai ha sikkari, naka ha motimoti. ka mu tabi ni azi wai ga hiro gaxtu te, kao ri mo yokuxtu te…… kuse ni naxtu tyau gurai
+wavs/nan009_018.wav|sa to ru kun ha itumo doko de ta be teru no?
+wavs/nan009_019.wav|zyaa, kyou mo dai san ryou de ta beru no?
+wavs/nan009_020.wav|axtu, hai. daizyoubu desu
+wavs/nan009_021.wav|e?  nani ga?
+wavs/nan009_022.wav|…… nani sore, siturei na koto i wa nai de kure nai kana
+wavs/nan009_023.wav|watasi no hitomisi ri ga sou kantan ni nao ru wakenai yo. amari anado ra nai de kureru?
+wavs/nan009_024.wav|sore yori mo――
+wavs/nan009_025.wav|henkou sa re ta sekyurithi no koto na n da kedo……
+wavs/nan009_026.wav|a, tiga u yo, sono gyaku. watasi ga sira be rareru hantyuu de ha toku ni ka waxtu ta yousu ha na sa sou
+wavs/nan009_027.wav|tasyou sensa. ga hu e tari mo si teru mitai da kedo, kousya no hou ha betudan kyouka sa re te na sa sou
+wavs/nan009_028.wav|sa to ru kun no hou ha, nani ka wakaxtu ta?
+wavs/nan009_029.wav|sore nara, sugu ni demo ugo ke sou kana?
+wavs/nan009_030.wav|wakaxtu ta. sorezyaa watasi mo zyunbi si te oku ne
+wavs/nan009_031.wav|un
+wavs/nan009_032.wav|sa to ru kun ha?  kono ryou da to itumo yori suku nai to omo u kedo suko si ta rinai n zya nai?
+wavs/nan009_033.wav|syouganai na.
+wavs/nan009_034.wav|watasi no wo wa kete ageru. kuuhuku de zyugyou ni syuutyuu deki naku naru to koma ru si ne
+wavs/nan009_035.wav|ha i, a.n
+wavs/nan009_036.wav|dou kasi ta?  mada ta ri nai n desyo u?  enryo nante si naku te ii yo
+wavs/nan009_038.wav|nani i xtu teru no, sa to ru kun. ani ni tai suru imouto no kimo ti wo utagu ru nante, yoku nai yo
+wavs/nan009_039.wav|…… xu .…… dou si te mo, ano azi mo nio i mo su ki ni na re nai n da mon
+wavs/nan009_040.wav|demo noko su no mo mou si wake nai kara……
+wavs/nan009_041.wav|…… o nii tyan……
+wavs/nan009_042.wav|arigato
+wavs/nan009_043.wav|ha i, a.n
+wavs/nan009_044.wav|…… huxtu……
+wavs/nan009_045.wav|e?  axtu…… ti, tiga u mon xtu.futari kiri da tte, anna huu ni ama e teru wake zya nai mon xtu
+wavs/nan009_046.wav|ima no datte ama e ta wake zya nakuxtu te, watasi ga sa to ru kun wo te no hira no ue de korokoro koro gasi te ta dake da mon xtu
+wavs/nan009_047.wav|sonna koto…… nai mon……
+wavs/nan009_048.wav|moxtu, mo xo!  sa to ru kun no baka…… sugo ku ha zukasii tokoro, mi rare tyaxtu ta zya nai
+wavs/nan009_049.wav|iya, i xtu te oku kedo sa to ru kun ha sisukon atuka i sa re te mo sikata nai kara ne?
+wavs/nan009_050.wav|tama ni watasi mo, kono hito kimoi naxa. tte honki de omo xtu teru kara ne?
+wavs/nan009_051.wav|sonna koto si te nai yoxtu, kira i na mono ga syokutaku ni nara bu koto nante nai n da kara!
+wavs/nan009_052.wav|toku ni zyouzu tte hodo demo nai kedo……
+wavs/nan009_053.wav|tyo, tyotto sa to ru kun…… xtu
+wavs/nan009_054.wav|sa to ru kun……
+wavs/nan009_055.wav|kimoi yo. sou iu tokoro ga sisukon po ixtu te i xtu teru no
+wavs/nan009_056.wav|sore ha…… datte sippai si te te mo sa to ru kun ha zenbu ta be tyau n desu
+wavs/nan009_057.wav|i kai, hansei no mono wo tai rage te o hara wo kowa si tyaxtu ta koto mo axtu ta node……
+wavs/nan009_058.wav|sonna no zya nai tte ba. kyoudai na no ni ai toka……………… huxtu, hutuu ni kimoi kara
+wavs/nan009_059.wav|naxtu!?  betu ni, watasi ha nani mo…… nani mo souzou nante si te nai mon xtu!  tisaki tyan no iziwaru xtu!
+wavs/nan009_060.wav|………. nani wo ta be tai ka, tyanto sitei si te kureru nara
+wavs/nan009_061.wav|ki xyaxu!?  kuru sii yo, tisaki tyan
+wavs/nan009_062.wav|na n da ka ha.doru ga suggoku taka ku naxtu teru ki ga suru…… sou iu no ha nigate da naxa
+wavs/nan009_063.wav|sou da to ii kedo…… mosi, go han tuku xtu tara satoru kun mo ta be tai?
+wavs/nan009_064.wav|…… soxtu ka…… huhun
+wavs/nan009_065.wav|sikata nai na.. sa to ru kun ga sonnani i u nara, ta be sase te age nai koto mo nai yo?
+wavs/nan009_067.wav|kakunin si ta kedo, nettowa.ku zyou no sekyurithi mo kyouka sa re ta yousu ha nai yo
+wavs/nan009_068.wav|yokaxtu ta xa…… tyanto ka.do ki. ga tuka eru mitai de
+wavs/nan009_069.wav|zenkai mitai ni, si.to de asutoraru wo kopi. suru nante koto ni naxtu tara dou siyo u ka to……
+wavs/nan009_070.wav|kyoudai soro xtu te, gakusei seikatu ga syuuryou si naku te yokaxtu ta ne
+wavs/nan009_071.wav|tyotto ma xtu te ne. extu to……
+wavs/nan009_072.wav|un, daizyoubu.a i m s no sekyurithi mo ka waxtu te nai mitai. kore nara mae mitai ni, sugu sira be rare sou
+wavs/nan009_073.wav|namae ha kamakura hisato de axtu teru yo ne?
+wavs/nan009_074.wav|de ta yo, sa to ru kun. demo kore……
+wavs/nan009_075.wav|mi ru kagi ri ha, toku ni. zenka ga aru wake demo nai si, keisatu ni ma.ku sa re teru wake demo nai si……
+wavs/nan009_076.wav|kamakura san ha raito re.ru no seibisi de, asukai san ha neirisuto.futari to mo nouryoku wo i kasi te, wasi zu kenkyuu tosi de hatara i te ta mitai
+wavs/nan009_077.wav|sore ga…… wakara nai. sira be rare nai n da yo
+wavs/nan009_078.wav|yukuehumei ni naxtu teru
+wavs/nan009_079.wav|futari tomo. yukuehumei
+wavs/nan009_080.wav|ryoukai
+wavs/nan010_001.wav|axtu, sa to ru kun
+wavs/nan010_002.wav|ohayou. sorede kinou no koto na n da kedo, o tou san ni houkoku si ta?
+wavs/nan010_003.wav|ohayou, tisaki tyan
+wavs/nan010_004.wav|mada da yo
+wavs/nan010_006.wav|toku ni kinkyuu no youken demo nai kara, ki ni si nai de
+wavs/nan010_007.wav|asa gohan ta be ni gyou kokka
+wavs/nan010_008.wav|asutoraru tuka i no...... renzoku yukuehumei. sonna koto ga o ki teru nante......
+wavs/nan010_009.wav|watasi tati mo, nani ka si ta hou ga ii no kana?
+wavs/nan010_010.wav|demo honto ni renzokusei ga axtu te, nani kasira no mokuteki mo aru no nara...... ayase senpai wo mou itido nera u kanousei ha taka i yo ne?
+wavs/nan010_011.wav|to ha ie...... syouziki, u ke mi ni naru no ha uti no sutairu zya nai n da ga na
+wavs/nan010_012.wav|ryoukai
+wavs/nan010_013.wav|axtu, demo......{[ sei] [ yuu] happyou sai} ha dou suru no?
+wavs/nan010_014.wav|sa to ru kun ha mada ki i te nai?  sei yuu happyou sai ni tui te
+wavs/nan010_015.wav|watasi mo tisaki tyan ni ki i ta bakkari na n da kedo, sei yuu happyou sai tte iu no ha tumari bunka maturi mitai na mono na n da tte
+wavs/nan010_017.wav|watasi mo ona zi desu. meda tu nouryoku zya ari mase n kara
+wavs/nan010_018.wav|...... so, sou da ne. sekkaku koe wo kake te moraxtu ta n da kara, o tetuda i sa se te morai masu
+wavs/nan010_019.wav|sa to ru kun, sa to ru kun
+wavs/nan010_020.wav|tyotto hanasi ga aru n da kedo
+wavs/nan010_021.wav|happyou sai, honto ni ii no?  minna de tte iu no ha tomokaku...... somosomo, da si mono nante si te mo
+wavs/nan010_022.wav|sou na n da?  sore ha tyotto mazui ne
+wavs/nan010_023.wav|u-n...... maa, mu kou no mokuteki ga tu re sa ru koto nara, kouka ha aru kamo
+wavs/nan010_024.wav|demo, ayase senpai ni kantan ni tika zukeru you ni si tya, imi ga nai yo ne?
+wavs/nan010_025.wav|un...... axtu, sou da
+wavs/nan010_026.wav|happyou sai ga ippan ni mo kaihou sa reru no nara, uti kara ouen wo tayo meru n zya nai kana?
+wavs/nan010_027.wav|ittu mo hitode busoku da mon nexe......
+wavs/nan010_028.wav|sore de, touzitu ni ouen wo mawa si te morau koto ha kanou desu ka?
+wavs/nan010_029.wav|honto desu ka, arigatai desu
+wavs/nan010_030.wav|suko si demo taisei ga kyouka sa reru nara, tasu kari masu
+wavs/nan010_031.wav|tinamini...... isso, tyuusi ni sa seru tte iu no ha?
+wavs/nan010_032.wav|...... tyuusi ga muri to naru to, anzen na da si mono kaxa
+wavs/nan010_033.wav|sou da nexe...... u-n...... engeki nanka da to, zenin ga i naku tya na ri ta ta nai desyo?
+wavs/nan010_034.wav|soxtu ka. to naru to...... mogiten toka no hou ga ii no kana?
+wavs/nan010_035.wav|un, ryoukai
+wavs/nan011_001.wav|demo sono baai, ayase senpai ni hutan wo si iru koto ni nari masu kedo......
+wavs/nan011_002.wav|zidaigeki?  butai de, desu ka?
+wavs/nan011_003.wav|sore de senpai. saki hodo i xtu te i ta aidhia ni tui te na n desu ga......?
+wavs/nan011_004.wav|nizyou in senpai no mizu no sousa ya, ayase senpai no tikara demo hako bu koto ga deki sou de ha ari masu ne
+wavs/nan011_005.wav|somosomo, mizu no isu ni suwa ru to nu re tyai masu yo ne?
+wavs/nan011_007.wav|watasi mo ii to omo i masu
+wavs/nan011_009.wav|ato ha...... panke-ki gurai nara dekiru kamo sire mase n ne
+wavs/nan011_010.wav|a, demo panke-ki to kure-pu nara, bunryou wo ka eru dake de, zairyou ni sonnani sa ha nai to omo i masu yo
+wavs/nan011_011.wav|aru teido nara. koko ni ku ru made, kazi ha watasi no tantou daxtu ta node, itiou
+wavs/nan011_012.wav|a, hai. watasi nanka de yorosikere ba
+wavs/nan011_013.wav|demo, o tou san mo akatuki kun mo, panke-ki ya kure-pu wo ta be tai toka i xtu ta koto nai node, zissai ni tuku xtu ta koto ha ari mase n yo
+wavs/nan011_014.wav|sore ni hutuu no teppan de tuku ru to naru to...... panke-ki ha madasimo, kure-pu ha maru ku ya ku no ga muzuka si sou desu......
+wavs/nan011_015.wav|sou?  sonna tai sita hanasi demo nai n da kedo
+wavs/nan011_016.wav|waxtu, wakari masi ta. ganba ri masu......!
+wavs/nan011_017.wav|ha i, daizyoubu desu. tyanto zenbu kanga e te oki masu ne
+wavs/nan011_018.wav|demo sasuga hi to ri kiri da to, te ga mawa ra naku nari sou desu kara...... o tetuda i si te kureru hito ga ho sii desu
+wavs/nan011_019.wav|ya kisoba ni o kono mi ya ki tte iu to, kissaten tte iu yori umi no ie nanka wo souzou si tyai masu ne
+wavs/nan011_020.wav|mizugi!?
+wavs/nan011_021.wav|itiou, deki masi ta. kore ga, kissaten de da su menyu-, ya kisoba ni, o kono mi ya ki, kure-pu ni panke-ki desu
+wavs/nan011_022.wav|ta be aru ki zya naku, seki ni suwa xtu te no teikyou na no de, sokora hen mo tasyou kodawaxtu ta hou ga ii ka to omo xtu te
+wavs/nan011_023.wav|yappari mondai ha azi de...... yoroko nde mora eru to ii n desu ga......
+wavs/nan011_024.wav|do, douzo
+wavs/nan011_025.wav|...... xuxu...... kazoku igai no hito ni ta be te morau tte, yosou izyou ni kintyou suru...... xtu
+wavs/nan011_026.wav|soxtu, sonna o sezi ha ii yo
+wavs/nan011_027.wav|o mise de da su mono na n da kara, kitan no nai kansou wo i xtu te kure te mo
+wavs/nan011_028.wav|a...... arigatou gozaimasu
+wavs/nan011_029.wav|e?  a, sono...... sou desu ka?  arigatou, gozai masu...... hai......
+wavs/nan011_030.wav|konnani ho me rareru nante omo xtu te nakaxtu ta node...... nan to i xtu te ii no ka...... e, e he
+wavs/nan011_031.wav|zissai ni yaxtu te mi nai to wakari mase n ga...... tokubetu, zikan wo kake ta wake demo nai node, dekiru to omo i masu
+wavs/nan011_032.wav|yame te, sou iu koto i wa nai de. sinzou ga, dokidoki si te ki ta. xuxu...... puressya- ga......
+wavs/nan011_033.wav|sore ha, wakaxtu te iru n desu ga......
+wavs/nan012_001.wav|sa to ru kun?  konna zikan ni gomen ne
+wavs/nan012_002.wav|axtu, uun. sou zya nai yo. sou zya nai n da kedo...... sotti ni i xtu te mo ii?
+wavs/nan012_003.wav|...... dame?
+wavs/nan012_004.wav|yokaxtu ta. zyaa, ima kara o riru ne. tyotto ma xtu te te
+wavs/nan012_005.wav|yoisyotto
+wavs/nan012_010.wav|sore ha, sono......
+wavs/nan012_011.wav|...... nani no koto?  sou iu ki metuke ha yoku nai yo
+wavs/nan012_012.wav|xu -...... nanka misu kasa re teru mitai de, ya da naxa-......
+wavs/nan012_013.wav|ma- ta sonna koto wo i xtu te...... honto, tekitou na koto bakkari i u n da kara
+wavs/nan012_014.wav|demo, ki wo tuka xtu te kure te ta dake kamo sire nai zya nai
+wavs/nan012_017.wav|...... un...... wakaxtu ta, asita ha ganba xtu te ryouri suru ne
+wavs/nan012_018.wav|suko si ha...... masi ni naxtu ta, kana...... arigato ne
+wavs/nan012_019.wav|zyaa kondo ha watasi ga hanasi wo ki i ta geru
+wavs/nan012_020.wav|sa to ru kun mo huan na n desyo u?  mosikasite, ayase senpai no koto?
+wavs/nan012_021.wav|wakaru yo. datte kyoudai da mon
+wavs/nan012_022.wav|...... daizyoubu da yo. watasi mo ki wo tu keru si, toku han no minna mo ouen ni ki te kureru n desyo u?
+wavs/nan012_023.wav|sore ni, sa to ru kun nara...... o nii tyan nara, daizyoubu. imouto ga hosyou si ta geru kara
+wavs/nan012_024.wav|sonnani huan ni naru nante, sikata nai naxa~
+wavs/nan012_025.wav|syouganai kara, kyou ha watasi ga issyo ni ne te ageru
+wavs/nan012_026.wav|datte hi to ri ni naru to huan desyo u?  dakara ani wo omo u imouto to si te, sikata naku sikata na~ ku issyo ni ne te ageru
+wavs/nan012_027.wav|...... sonna koto nai mon
+wavs/nan012_028.wav|soretomo...... dame?
+wavs/nan012_029.wav|un. arigato, o nii tyan
+wavs/nan012_030.wav|sa to ru kun, mou ne ta?
+wavs/nan012_031.wav|o ki teru zyan
+wavs/nan012_032.wav|sore ha wakaxtu teru n da kedo ne
+wavs/nan012_033.wav|ira na- i. sa to ru kun, anmari uta ga uma ku nai mon. gyaku ni nemu re naku nari sou
+wavs/nan012_034.wav|sore ni, kou si teru dake de zyuubun
+wavs/nan012_035.wav|kono beddo...... sa to ru kun no nio i ga suru
+wavs/nan012_036.wav|tyotto kusa i
+wavs/nan012_037.wav|demo, kira i zya nai yo. ansin dekiru
+wavs/nan012_038.wav|e?  sonna no tu ke te nai yo?  kousui nante tu keru syuukan mo nai si
+wavs/nan012_039.wav|sonna no tu ke te tara, ninmu no toki ni zyama ni naru mon
+wavs/nan012_040.wav|tyoxtu, tyotto!  hito no nio i wo ka ga nai de yo! hentai na no...... !?
+wavs/nan012_041.wav|so, soxtu ka...... sore nara ikka. iya, ii no ka?
+wavs/nan012_042.wav|....... sa to ru kun ni i wa re taku nai na-. mainiti watasi ni o kosa re te ta kuse ni -
+wavs/nan012_043.wav|sou daxtu ta n da......?
+wavs/nan012_044.wav|puxtu, ahaha. o nii tyan ga, watasi wo o kosu tte...... omosiro i ne
+wavs/nan012_045.wav|zyaa, sono kotoba wo sinyou sa se te mora oxtu kana
+wavs/nan012_046.wav|iyaiya, ima no mama demo zyuubun sisukon da to omo u kedo ne?  hutuu, o nii tyan ga imouto to issyo ni ne ru koto nante nai yo
+wavs/nan012_047.wav|un. dakara, arigatou
+wavs/nan012_048.wav|oyasumi, o nii tyan
+wavs/nan012_049.wav|n n xtu...... ni xyu munyu mu...... n n xtu
+wavs/nan012_051.wav|n xuxu -...... ohayou, o nii tyan
+wavs/nan012_052.wav|...... n, n -...... masaka, honto ni o kosa reru koto ni naru to ha omo xtu te nakaxtu ta
+wavs/nan012_053.wav|tyotto hayao ki si ta teido de era sou ni
+wavs/nan012_054.wav|demo...... arigato. kinou ha ansin si te nemu re ta
+wavs/nan012_055.wav|kyou ha ganba ra nai to ne......!
+wavs/nan012_056.wav|un. yappari omosiro i aidhia desu yo, sikibu senpai
+wavs/nan012_057.wav|sore ha tasi ka ni sou desu ne. mizugi de sekkyaku nante...... souzou si ta dake demo, xaxu
+wavs/nan012_058.wav|axtu, soxtu ka. dattara watasi mo, tasyou ha masi kamo......
+wavs/nan012_059.wav|sikibu senpai no mizugisugata ha hige suru hituyou nante nai desu yo
+wavs/nan012_060.wav|tisaki tyan no mizugi, tottemo nia xtu te te kawai i yo
+wavs/nan012_061.wav|kore ha tisaki tyan ga era n de kure ta okage da yo
+wavs/nan012_062.wav|daizyoubu desu tte ba. kore ha watasi no honsin desu
+wavs/nan012_063.wav|sore demo, isu gurai nara hako be masu kara
+wavs/nan012_065.wav|a, mada desu. sotogawa ga mou suko si kata maxtu te kara, o nega i si masu
+wavs/nan012_066.wav|panke-ki futari desu ne, wakari masi ta
+wavs/nan012_067.wav|ayase senpai, panke-ki no kizi wo to xtu te mora e masu ka?
+wavs/nan012_068.wav|arigatou gozaimasu
+wavs/nan012_069.wav|sou desu ne. hai, daizyoubu desu
+wavs/nan012_070.wav|extu to, ya kisoba ha futari mae. ato, aa, sou da, kure-pu mo ya ka nai to
+wavs/nan012_071.wav|ayase senpai, ya kisoba wo o nega i si te mo ii desu ka?
+wavs/nan012_072.wav|sumimasen. yorosiku o nega i si masu
+wavs/nan012_073.wav|sa to ru kun!!
+wavs/nan012_074.wav|sou da yo, sa to ru kun!  sorede...... kizu no guai ha?
+wavs/nan012_075.wav|u, un. sugu ni nao su kara
+wavs/nan012_076.wav|mada dame. tyanto nao sa nai to
+wavs/nan012_077.wav|o nii tyan!
+wavs/nan012_078.wav|watasi no nouryoku ha, akumade zibun no tiyuryoku de kega wo nao su dake na n da yo?
+wavs/nan012_079.wav|konkai datte, suko si zure te tara...... watasi zya dou siyoumonakaxtu ta kamo sire nai n da kara......
+wavs/nan012_080.wav|tugi nante naku te ii kara. to iu ka, tugi ga aru to koma ru
+wavs/nan012_081.wav|sou da yo, sinpai si ta n da yo. zenzen modo xtu te ko nai si...... kega wo si ta tte renraku ga ku ru si......
+wavs/nan012_082.wav|sugoku sugoku sinpai si ta n da kara! ...... o nii tyan no baka
+wavs/nan012_083.wav|...... sonna koto i xtu te, kekkyoku kega bakkari suru n da kara
+wavs/nan012_084.wav|mata sonna tekitou na koto bakkari i xtu te......
+wavs/nan012_085.wav|soxtu, sore ha...... ti, gaun desu, watasi ha betu nixtu
+wavs/nan012_086.wav|...... xtuxtuxtu
+wavs/nan012_087.wav|ha, hai!  kore de o sima i!  mou heiki da yo ne?
+wavs/nan012_088.wav|...... o nii tyan mo, o tuka re sama
+wavs/nan012_089.wav|axtu!  sou daxtu ta. tyouri tantou ga futari to mo kotti ni ki tyaxtu teru kara
+wavs/nan012_090.wav|resipi ha obo e te moraxtu teru kara, suko si gurai ha heiki da to omo u kedo......
+wavs/nan012_091.wav|ha i!
+wavs/nan012_092.wav|...... o nii tyan...... yokaxtu ta xa. honto ni, yokaxtu ta
+wavs/nan012_093.wav|kega ha?
+wavs/nan012_094.wav|o tou san ni?
+wavs/nan012_095.wav|na ni sore. sugo ku ki ni naru n da kedo?
