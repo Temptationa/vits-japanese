@@ -16,6 +16,8 @@ import re
 from unidecode import unidecode
 import pyopenjtalk
 from janome.tokenizer import Tokenizer
+from pypinyin import lazy_pinyin, BOPOMOFO
+import jieba, cn2an
 
 
 # Regular expression matching whitespace:
@@ -41,6 +43,36 @@ _abbreviations = [(re.compile('\\b%s\\.' % x[0], re.IGNORECASE), x[1]) for x in 
   ('ltd', 'limited'),
   ('col', 'colonel'),
   ('ft', 'fort'),
+]]
+
+# List of (Latin alphabet, bopomofo) pairs:
+_latin_to_bopomofo = [(re.compile('%s' % x[0], re.IGNORECASE), x[1]) for x in [
+  ('a', 'ㄟˉ'),
+  ('b', 'ㄅㄧˋ'),
+  ('c', 'ㄙㄧˉ'),
+  ('d', 'ㄉㄧˋ'),
+  ('e', 'ㄧˋ'),
+  ('f', 'ㄝˊㄈㄨˋ'),
+  ('g', 'ㄐㄧˋ'),
+  ('h', 'ㄝˇㄑㄩˋ'),
+  ('i', 'ㄞˋ'),
+  ('j', 'ㄐㄟˋ'),
+  ('k', 'ㄎㄟˋ'),
+  ('l', 'ㄝˊㄛˋ'),
+  ('m', 'ㄝˊㄇㄨˋ'),
+  ('n', 'ㄣˉ'),
+  ('o', 'ㄡˉ'),
+  ('p', 'ㄆㄧˉ'),
+  ('q', 'ㄎㄧㄡˉ'),
+  ('r', 'ㄚˋ'),
+  ('s', 'ㄝˊㄙˋ'),
+  ('t', 'ㄊㄧˋ'),
+  ('u', 'ㄧㄡˉ'),
+  ('v', 'ㄨㄧˉ'),
+  ('w', 'ㄉㄚˋㄅㄨˋㄌㄧㄡˋ'),
+  ('x', 'ㄝˉㄎㄨˋㄙˋ'),
+  ('y', 'ㄨㄞˋ'),
+  ('z', 'ㄗㄟˋ')
 ]]
 
 # Regular expression matching Japanese without punctuation marks:
@@ -200,4 +232,42 @@ def japanese_phrase_cleaners(text):
   return text
 
 
+def number_to_chinese(text):
+  numbers = re.findall(r'\d+(?:\.?\d+)?', text)
+  for number in numbers:
+    text = text.replace(number, cn2an.an2cn(number),1)
+  return text
 
+
+def chinese_to_bopomofo(text):
+  text=text.replace('、','，').replace('；','，').replace('：','，')
+  words=jieba.lcut(text,cut_all=False)
+  text=''
+  for word in words:
+    bopomofos=lazy_pinyin(word,BOPOMOFO)
+    if not re.search('[\u4e00-\u9fff]',word):
+      text+=word
+      continue
+    for i in range(len(bopomofos)):
+      if re.match('[\u3105-\u3129]',bopomofos[i][-1]):
+        bopomofos[i]+='ˉ'
+    if text!='':
+      text+=' '
+    text+=''.join(bopomofos)
+  return text
+
+
+def latin_to_bopomofo(text):
+  for regex, replacement in _latin_to_bopomofo:
+    text = re.sub(regex, replacement, text)
+  return text
+
+
+def chinese_cleaners(text):
+  '''Pipeline for Chinese text'''
+  text=number_to_chinese(text)
+  text=chinese_to_bopomofo(text)
+  text=latin_to_bopomofo(text)
+  if re.match('[ˉˊˇˋ˙]',text[-1]):
+    text += '。'
+  return text
